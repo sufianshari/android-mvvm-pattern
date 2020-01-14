@@ -18,4 +18,8 @@ public class MovieDetailActivity extends AppCompatActivity {
     private void loadData(){
 
     }
+
+    private void initData(){
+
+    }
 }
